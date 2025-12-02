@@ -1,11 +1,9 @@
-# FinalProjects_Snow_CMSC6950
+# Statistical Analysis and Extreme Value Detection in Financial Time-Series: A Case Study of Apple Inc.
 
 Student name: Thi Tuyet Nhi Nguyen
 
 Student ID: 202398785
 
-
-# Statistical Analysis and Extreme Value Detection in Financial Time-Series: A Case Study of Apple Inc.
 
 ## Project Overview
 This project focuses on the processing and analysis of historical stock data for **Apple Inc. (AAPL)**. The goal is to identify meaningful extreme values and market trends using statistical methods, specifically **Bollinger Bands** and **Simple Moving Averages (SMA)**.
