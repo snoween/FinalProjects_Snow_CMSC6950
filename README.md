@@ -32,6 +32,7 @@ The repository is organized as follows:
 ├── main.py                 # Main script to reproduce all figures
 ├── requirements.txt        # List of dependencies
 └── README.md               # Project documentation
+```
 
 **Setup Instructions:**
 
