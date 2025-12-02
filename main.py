@@ -76,7 +76,7 @@ def main():
     
     plt.savefig(f'{FIGURES_DIR}/fig3_candlestick.png')
     plt.close()
-    print("Saved Figure 3 (Pure Matplotlib version)")
+    print("Saved Figure 3")
 
     # Figure 4: Bollinger Bands Visualization
     plt.figure(figsize=(12, 6))
