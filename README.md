@@ -67,21 +67,21 @@ python main.py
 
 ## Output: The following images will be generated in the figures/ directory:
 
-1. fig1_close_price.png: Historical closing price.
+1. `fig1_close_price.png`: Historical closing price.
 
-2. fig2_volume.png: Trading volume.
+2. `fig2_volume.png`: Trading volume.
 
-3. fig3_candlestick.png: Candlestick chart (Last 60 days).
+3. `fig3_candlestick.png`: Candlestick chart (Last 60 days).
 
-4. fig4_bollinger_bands.png: Visualization of the Bollinger Bands.
+4. `fig4_bollinger_bands.png`: Visualization of the Bollinger Bands.
 
-5. fig5_extremes_scatter.png: Scatter plot highlighting identified extreme values.
+5. `fig5_extremes_scatter.png`: Scatter plot highlighting identified extreme values.
 
-6. fig6_returns_hist.png: Histogram of daily returns (distribution check).
+6. `fig6_returns_hist.png`: Histogram of daily returns (distribution check).
 
-7. fig7_sensitivity.png: Sensitivity analysis bar chart.
+7. `fig7_sensitivity.png`: Sensitivity analysis bar chart.
 
-8. fig8_trend_sma.png: Trend analysis (SMA 50 vs SMA 200).
+8. `fig8_trend_sma.png`: Trend analysis (SMA 50 vs SMA 200).
 
 - Ensure that any required input files are present in the appropriate directories before running the script.
 - Command-line arguments, if required, will be described in individual project documentation.
