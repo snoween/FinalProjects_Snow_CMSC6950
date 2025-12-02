@@ -18,6 +18,15 @@ The data is sourced from **Yahoo Finance** (an original citable resource) using 
 - **Period:** Daily data from 2020 to 2025.
 - **Attributes:** Open, High, Low, Close, Volume.
 
+## Methodology
+1. Bollinger Bands (Meaningful Function): A function calculate_bollinger_bands was developed to compute volatility bands (20-day SMA ± 2 standard deviations).
+
+2. Extreme Value Detection: "Extreme days" are defined as days where the closing price falls outside the upper or lower Bollinger Bands.
+
+3. Sensitivity Analysis: The project explores how the number of extreme days changes when the standard deviation threshold varies (1.5, 2.0, and 2.5 SD).
+
+4. Trend Analysis: Long-term trends are identified using the interaction between 50-day and 200-day Simple Moving Averages (Golden Cross/Death Cross).
+
 ## Project Structure
 The repository is organized as follows:
 
