@@ -1,7 +1,6 @@
 import sys
 import os
 import matplotlib.pyplot as plt
-import pandas as pd
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
